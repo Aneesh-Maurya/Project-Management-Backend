@@ -63,7 +63,7 @@ mongod --dbpath /data/db
 Or update .env with your MongoDB Atlas URI.
 
 5. Run Server
-npm run dev   # development mode
+npm start   # development mode
 
 
 Backend API will be live at → http://localhost:5000
